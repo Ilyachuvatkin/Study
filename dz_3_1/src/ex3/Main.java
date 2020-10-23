@@ -2,6 +2,7 @@ package ex3;
 
 public class Main {
     public static void main(String[] args) {
+		
         Box<Orange> boxWithOrange = new Box<>();
         Box<Apple> boxWithApple = new Box<>();
         Box<Apple> boxWithApple2 = new Box<>();
