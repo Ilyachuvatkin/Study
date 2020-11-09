@@ -1,0 +1,90 @@
+ноя 08, 2020 5:48:30 PM server.Server <init>
+INFO: Server started
+ноя 08, 2020 5:48:31 PM server.Server <init>
+INFO: Database connected
+ноя 08, 2020 7:36:12 PM server.Server <init>
+INFO: Server started
+ноя 08, 2020 7:36:13 PM server.Server <init>
+INFO: Database connected
+ноя 08, 2020 7:36:34 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:55102
+ноя 08, 2020 7:36:39 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected by timeout
+ноя 08, 2020 7:36:39 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:55102
+ноя 08, 2020 7:36:41 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:55114
+ноя 08, 2020 7:36:54 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:55114
+ноя 08, 2020 7:37:11 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:55169
+ноя 08, 2020 7:37:15 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:55169
+ноя 08, 2020 7:37:30 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:55209
+ноя 08, 2020 7:37:37 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:55209
+ноя 08, 2020 7:52:40 PM server.Server <init>
+INFO: Server started
+ноя 08, 2020 7:52:40 PM server.Server <init>
+INFO: Database connected
+ноя 08, 2020 7:52:54 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:56736
+ноя 08, 2020 7:52:59 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:56736
+ноя 08, 2020 7:53:07 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:56761
+ноя 08, 2020 7:53:25 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:56761
+ноя 08, 2020 7:53:35 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:56813
+ноя 08, 2020 7:53:42 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:56813
+ноя 08, 2020 7:54:39 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:56917
+ноя 08, 2020 7:54:48 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:56917
+ноя 08, 2020 7:54:58 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:56953
+ноя 08, 2020 7:55:09 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:56953
+ноя 08, 2020 7:55:17 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:56994
+ноя 08, 2020 7:55:19 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:56994
+ноя 08, 2020 7:58:42 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:57491
+ноя 08, 2020 7:59:13 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:57547
+ноя 08, 2020 8:00:10 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:57491
+ноя 08, 2020 8:00:14 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:57547
+ноя 08, 2020 8:01:14 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:57758
+ноя 08, 2020 8:01:27 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:57758
+ноя 08, 2020 8:07:31 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:58373
+ноя 08, 2020 8:08:56 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:58373
+ноя 08, 2020 8:10:36 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:58690
+ноя 08, 2020 8:10:40 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:58690
+ноя 08, 2020 8:11:25 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:58776
+ноя 08, 2020 8:28:44 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:58776
+ноя 08, 2020 8:36:24 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:61209
+ноя 08, 2020 8:37:23 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:61311
+ноя 08, 2020 8:37:38 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:61209
+ноя 08, 2020 8:39:02 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:61311
+ноя 08, 2020 8:39:58 PM server.ClientHandler <init>
+INFO: Client connected /127.0.0.1:61572
+ноя 08, 2020 8:40:02 PM server.ClientHandler lambda$new$0
+INFO: Client disconnected /127.0.0.1:61572
